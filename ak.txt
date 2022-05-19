@@ -1,1 +1,6 @@
+<<<<<<< HEAD
 akshika guglani
+=======
+akshika
+hello 
+>>>>>>> b9f2bde7a2d77fd8beeff21b88939fbb3aa6face
